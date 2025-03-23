@@ -1,2 +1,2 @@
 # start-git-pull
-Repo for practice git-pull
+Repositorie for practice git-pull.
